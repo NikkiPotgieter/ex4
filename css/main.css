@@ -1,0 +1,48 @@
+
+form{
+    width: 50%;
+    margin:  0 auto;
+    margin-top: 50px;
+}
+
+input{
+    margin-top: 15px;
+}
+
+select{
+    margin-top: 15px;
+}
+
+.btn{
+    margin-top: 15px;
+    
+}
+
+.base-options{
+    width: 33%;
+    margin-top: 20px;
+    float: left;
+    padding-left: 20px;
+}
+
+.base-options h3{
+   margin-left:  -20px;
+   margin-bottom: 20px;
+}
+
+.toppings{
+    width: 66%;
+    margin-top: 20px;
+    float: left;
+    padding-left: 20px;
+}
+
+.toppings h3{
+    margin-left:  -20px;
+    margin-bottom: 20px;
+}
+
+.top-check{
+    width: 33%;
+    float: left;
+}
